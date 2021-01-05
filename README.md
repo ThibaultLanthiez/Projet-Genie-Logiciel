@@ -4,7 +4,7 @@
 
 Projet d'un mois, en équipe de 5.
 
-Méthodes agiles, git ...
+Méthodes agiles (implémentation après implémentation ...), git ...
 
 Beaucoup de tests à faire
 
