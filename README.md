@@ -1,3 +1,5 @@
+[:arrow_left: Retour vers le portfolio](https://github.com/ThibaultLanthiez/Portfolio)
+
 # Projet Génie Logiciel
 
 Projet d'un mois, en équipe de 5.
